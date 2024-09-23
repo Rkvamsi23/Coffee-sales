@@ -50,6 +50,4 @@ The Coffee Chain Sales Analysis project focuses on evaluating the performance of
 ### Year-on-Year Sales Trends
 - Sales experienced substantial growth from 2012 to 2014, followed by a 20% decline in 2015. However, inventory margins steadily increased each year, indicating improved profitability per product sold.
 
----
 
-This analysis provides insights into the coffee chain's operations, helping identify potential areas for optimization and growth.
